@@ -1,0 +1,74 @@
+- name: good first issue
+  color: '#5319e7'
+  description: Good for newcomers
+
+- name: help
+  color: '#008672'
+  description: Extra attention is needed
+  aliases: [help wanted]
+
+- name: 'state: approved'
+  color: '#91ca55'
+  aliases: [approved]
+
+- name: 'state: blocked'
+  color: '#d73a4a'
+  description: This will not be worked on
+  aliases: [wontfix]
+
+- name: 'state: pending'
+  color: '#fbc901'
+  description: More info is needed before deciding what to do
+  aliases: [pending]
+
+- name: 'state: duplicate'
+  color: '#e6e6e6'
+  description: This issue or pull request already exists
+  aliases: [duplicate]
+
+- name: 'state: invalid'
+  color: '#fbc901'
+  description: This doesn't seem right
+  aliases: [invalid]
+
+- name: 'state: breaking'
+  color: '#d73a4a'
+  description: A change that requires a major release
+  aliases: [breaking]
+
+- name: 'state: inactive'
+  color: '#e6e6e6'
+  aliases: [inactive]
+
+- name: 'type: bug'
+  color: '#d73a4a'
+  description: Something isn't working
+  aliases: [bug]
+
+- name: 'type: fix'
+  color: '#91ca55'
+  aliases: [fix]
+
+- name: 'type: feature'
+  color: '#5ebeff'
+  description: New feature or request
+  aliases: [enhancement, feature]
+
+- name: 'type: chore'
+  color: '#fef2c0'
+  description: Code changes that neither fix bugs nor add features
+  aliases: [chore]
+
+- name: 'type: discussion'
+  color: '#d4c4f9'
+  description: Discussion or question
+  aliases: [discussion, question]
+
+- name: 'type: docs'
+  color: '#fef2c0'
+  description: Documentation changes
+  aliases: [docs, documentation]
+
+- name: 'type: security'
+  color: '#d73a4a'
+  aliases: [security]
