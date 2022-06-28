@@ -2,6 +2,8 @@
 
 🏷️⚙️ Shared GitHub labels config
 
+[Preview](https://github.com/danielwerg/labels/labels)
+
 ## Usage
 
 ### GitHub Actions
