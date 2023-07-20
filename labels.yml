@@ -57,7 +57,7 @@
 - name: 'type: chore'
   color: '#fef2c0'
   description: Code changes that neither fix bugs nor add features
-  aliases: [chore]
+  aliases: [chore, dependencies, automation]
 
 - name: 'type: discussion'
   color: '#d4c4f9'
